@@ -2,7 +2,7 @@
   <p align="center">
 
    <img 
-src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
+src="https://tenor.com/view/love-heart-eyes-tom-and-jerry-in-love-hearts-gif-17886756" alt="GIF"/>
 </p>
 
 
@@ -74,7 +74,7 @@ $ node julie.js
 <a href="https://github.com/KALIPPAN-SER02/">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Kalippan-Midhunx3/followers"
+<a href="https://github.com/Minerser/APARNAMWOL-V2/security"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
 <a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
 <a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2"><img title="Forks" src="https://img.shields.io/github/forks/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
